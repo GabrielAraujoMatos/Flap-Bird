@@ -1,2 +1,2 @@
-# Jumping_Ball
- Tente coletar o máximo de bolas, não deixe cair!
+# FlapBird
+ Coloquei as mesmas mecanicas que o flapbird original mas fiz em 3D.
